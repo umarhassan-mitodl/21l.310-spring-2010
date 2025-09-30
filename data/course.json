@@ -1,0 +1,55 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Biography"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "216d656c-c93b-d010-ba20-1542b1802c01",
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a2c9ae7b-4dee-d26c-e364-239e77ee3303",
+    "website": "21l-310-bestsellers-the-memoir-spring-2010"
+  },
+  "course_title": "Bestsellers: The Memoir",
+  "hide_download": true,
+  "course_description": "What is a \"life\" when it's written down? How does memory inform the present? Why are memoirs so popular? This course will address these questions and others, considering the relationship between biography, autobiography, and memoir and between personal and social themes. We will closely examine some recent memoirs: Tobias Wolff's _This Boy's Life_, Barack Obama's _Dreams From My Father_, Edwidge Danticat's _Brother_, _I'm Dying_, Ayaan Hirsi Ali's _Infidel_, and Alison Bechdel's _Fun Home_. Students will write two brief papers: a critical essay and an experiment in memoir.\n\nAs a \"Sampling,\" this class offers 6 units, with a strong emphasis on close reading, group discussion, focused writing, and research and presentation skills.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.310",
+  "course_image_thumbnail": {
+    "content": "458ca907-0171-2eb7-e042-e2c6fd4646bd",
+    "website": "21l-310-bestsellers-the-memoir-spring-2010"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "d89094d3-20fd-4c9f-866b-6c8454ef597f",
+  "site_short_id": "21l.310-spring-2010",
+  "site_url_path": "courses/21l-310-bestsellers-the-memoir-spring-2010",
+  "title": "Course Metadata"
+}
